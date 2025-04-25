@@ -1,0 +1,24 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "[!m]*/**": true,
+        "m[!y]*/**": true,
+        "my[!s]*/**": true,
+        "mys[!q]*/**": true,
+        "mysq[!l]*/**": true,
+        "mysql[!-]*/**": true,
+        "mysql-[!t]*/**": true,
+        "mysql-t[!e]*/**": true,
+        "mysql-te[!r]*/**": true,
+        "mysql-ter[!r]*/**": true,
+        "mysql-terr[!a]*/**": true,
+        "mysql-terra[!f]*/**": true,
+        "mysql-terraf[!o]*/**": true,
+        "mysql-terrafo[!r]*/**": true,
+        "mysql-terrafor[!m]*/**": true
+    }
+}
